@@ -1,4 +1,4 @@
-"""19. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son 
+"""19. Programas que introduzca dos números y devuelva cuál de los dos es mayor, menor o son 
 iguales """
 num1 = int(input("introduce un número: "))
 num2 = int(input("introduce otro número: "))
